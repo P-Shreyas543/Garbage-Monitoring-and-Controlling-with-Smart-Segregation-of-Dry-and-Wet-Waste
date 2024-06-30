@@ -17,7 +17,6 @@ The project aims to develop a system for garbage monitoring and controlling with
 - [Limitations](#limitations)
 - [Future Scope](#future-scope)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -91,9 +90,6 @@ The project aims to develop a system for garbage monitoring and controlling with
 
 ## Contributing
 Contributions are welcome! Please follow the standard contributing guidelines for pull requests and issues.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any questions or support, please contact:
