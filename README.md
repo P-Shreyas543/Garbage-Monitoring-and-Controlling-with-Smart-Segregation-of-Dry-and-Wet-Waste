@@ -9,7 +9,6 @@ The project aims to develop a system for garbage monitoring and controlling with
 - [Hardware Requirements](#hardware-requirements)
 - [Software Requirements](#software-requirements)
 - [Wiring Diagram](#wiring-diagram)
-- [Block Diagram](#block-diagram)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Applications](#applications)
@@ -42,9 +41,6 @@ The project aims to develop a system for garbage monitoring and controlling with
 
 ## Wiring Diagram
 ![Wiring Diagram](Wiring_diagram.png)
-
-## Block Diagram
-![Block Diagram](path/to/block_diagram.png)
 
 ## Installation
 1. **Setup Hardware:**
