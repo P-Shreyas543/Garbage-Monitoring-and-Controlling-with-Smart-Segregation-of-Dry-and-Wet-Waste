@@ -41,7 +41,7 @@ The project aims to develop a system for garbage monitoring and controlling with
 - Libraries: `Servo.h`, `LiquidCrystal.h`, `Ultrasonic.h`
 
 ## Wiring Diagram
-![Wiring Diagram](Wiring diagram.png)
+![Wiring Diagram](Wiring_diagram.png)
 
 ## Block Diagram
 ![Block Diagram](path/to/block_diagram.png)
