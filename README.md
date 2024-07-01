@@ -88,8 +88,7 @@ The project aims to develop a system for garbage monitoring and controlling with
 Contributions are welcome! Please follow the standard contributing guidelines for pull requests and issues.
 
 ## Contact
-For any questions or support, please contact:
-
+Project Associates
 - **S Suhas**
 - **Shreyas P**
 - **Vyshnavi H K**
