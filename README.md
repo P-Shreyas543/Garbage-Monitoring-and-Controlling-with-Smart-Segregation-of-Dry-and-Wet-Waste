@@ -96,4 +96,6 @@ This project implements an automated system for garbage monitoring and controlli
 - Expansion to include additional waste types and features.
 
 ## Contributing
-Contributions are welcome!
+Feel free to contribute to this project by submitting issues, suggestions, or improvements via GitHub.
+
+For any additional questions or support, please contact [Shreyas P](mailto:shreyasp182002@gmail.com).
