@@ -3,21 +3,6 @@
 ## Project Description
 The project aims to develop a system for garbage monitoring and controlling with smart segregation of dry and wet waste using sensors and Arduino. This system helps to automate the process of waste segregation, thereby reducing human intervention and promoting efficient waste management.
 
-## Table of Contents
-- [Project Description](#project-description)
-- [Features](#features)
-- [Hardware Requirements](#hardware-requirements)
-- [Software Requirements](#software-requirements)
-- [Wiring Diagram](#wiring-diagram)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Applications](#applications)
-- [Advantages](#advantages)
-- [Limitations](#limitations)
-- [Future Scope](#future-scope)
-- [Contributing](#contributing)
-- [Contact](#contact)
-
 ## Features
 - Automatic detection and segregation of dry and wet waste.
 - Real-time monitoring of waste levels in bins.
@@ -87,9 +72,3 @@ The project aims to develop a system for garbage monitoring and controlling with
 ## Contributing
 Contributions are welcome! Please follow the standard contributing guidelines for pull requests and issues.
 
-## Contact
-Project Associates
-- **S Suhas**
-- **Shreyas P**
-- **Vyshnavi H K**
-- **Chitra A**
