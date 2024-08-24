@@ -69,6 +69,21 @@ This project implements an automated system for garbage monitoring and controlli
 - **Setup:** Initializes sensors, servo motor, LCD display, and serial communication.
 - **Loop:** Continuously reads sensor values, determines the waste type, directs it to the correct bin, and checks bin levels. Provides real-time feedback on the LCD and triggers the buzzer when bins are full.
 
+## Project images
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/68bac857-16ff-45b5-8f06-675b0c6db3e8" alt="Image 1" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/11648a55-a791-4aa3-a5bb-b3a585a676f9" alt="Image 2" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/68bac857-16ff-45b5-8f06-675b0c6db3e8" alt="Image 3" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/11648a55-a791-4aa3-a5bb-b3a585a676f9" alt="Image 4" width="300"/></td>
+  </tr>
+</table>
+
+
+
+
 ## Applications
 
 - **Residential:** Helps households manage waste segregation.
